@@ -8,8 +8,6 @@ class FunctionCallError(Exception):
     """
     pass
 
-
-
 def sum_of_digits(number):
     """
     Calculates the sum of digits of a given number.
